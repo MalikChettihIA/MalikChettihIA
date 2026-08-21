@@ -32,26 +32,20 @@ Repos are tagged with a **GitHub topic** so they can be filtered directly from t
 - 🚀 **`private-initiative`** — personal projects and resource curation
 - 🔱 **`reference`** — repos forked from others, kept for study/reference, not original work
 
-### 🎓 Emiasd — Master's program
+### 🎓 [Dauphine EMIASD — Master's program](https://executive-education.dauphine.psl.eu/formations/executive-master-diplome-universite/ia-science-donnees)
 
-Every repository prefixed **`Emiasd-`** corresponds to a course or project from the EMIASD Master's program (Dauphine). Course notes, labs, projects and notebooks are documented as the program progresses.
+Main projects from the Executive Master in AI & Data Science at Université Paris-Dauphine \| PSL. The full list of course repositories (including private ones) and a detailed description of the program are in **[emiasd-program.md](emiasd-program.md)**.
 
 | Repo | Content |
 |---|---|
-| [Emiasd-MachineLearning](https://github.com/MalikChettihIA/Emiasd-MachineLearning) | Machine Learning fundamentals |
+| [Emiasd-FlightProject](https://github.com/MalikChettihIA/Emiasd-FlightProject) | ⭐ Flight delay prediction — see featured project below |
 | [Emiasd-DeepLearning](https://github.com/MalikChettihIA/Emiasd-DeepLearning) | Deep Learning — neural network project on the game of Go |
-| [Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow](https://github.com/MalikChettihIA/Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow) | Large-scale Machine Learning with Spark & TensorFlow |
 | [Emiasd-NLP](https://github.com/MalikChettihIA/Emiasd-NLP) | Natural Language Processing (ModernBERT fine-tuning...) |
-| [Emiasd-MonteCarloSearch](https://github.com/MalikChettihIA/Emiasd-MonteCarloSearch) | Monte Carlo Tree Search, UCB, RAVE, Nested Monte Carlo Search |
-| [Emiasd-SystemeDeRecommandation](https://github.com/MalikChettihIA/Emiasd-SystemeDeRecommandation) | Recommender systems (LightFM) |
-| [Emiasd-OptimisationApprentissage](https://github.com/MalikChettihIA/Emiasd-OptimisationApprentissage) | Optimization for Machine Learning |
+| [Emiasd-MachineLearning](https://github.com/MalikChettihIA/Emiasd-MachineLearning) | Machine Learning fundamentals |
 | [Emiasd-ProbaStatistiques](https://github.com/MalikChettihIA/Emiasd-ProbaStatistiques) | Probability & Statistics (R) |
-| [Emiasd-SQLnoSQL-LakehouseDatalake](https://github.com/MalikChettihIA/Emiasd-SQLnoSQL-LakehouseDatalake) | SQL/NoSQL, Lakehouse & Datalake architectures |
-| [Emiasd-Graphes](https://github.com/MalikChettihIA/Emiasd-Graphes) | Graph theory |
-| [Emiasd-IASante](https://github.com/MalikChettihIA/Emiasd-IASante) | AI applied to healthcare |
-| [Emiasd-ProjetIA](https://github.com/MalikChettihIA/Emiasd-ProjetIA) | Course materials for the AI Project course |
-| [Emiasd-NextSteps](https://github.com/MalikChettihIA/Emiasd-NextSteps) | Personal notes: mathematics and agentic AI |
-| [Emiasd-FlightProject](https://github.com/MalikChettihIA/Emiasd-FlightProject) | ⭐ Featured project (see below) |
+| [Emiasd-SystemeDeRecommandation](https://github.com/MalikChettihIA/Emiasd-SystemeDeRecommandation) | Recommender systems (LightFM) |
+| [Emiasd-ProjetIA](https://github.com/MalikChettihIA/Emiasd-ProjetIA) | AI Project course |
+| Emiasd-AlgebreLineaire | Linear Algebra 🔒 *(private — coming soon)* |
 
 ### 📚 Learning — courses & trainings
 
