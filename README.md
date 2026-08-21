@@ -6,9 +6,9 @@
 
 ## 🧭 About
 
-Software architect and manager with 20+ years of experience designing banking platforms and leading technical teams. Currently **Team & Account Manager / Principal Project Manager at Finastra**, where I lead a team of 12 consultants on core banking projects (Ktp PaymentFactory, eConnect), from pre-sales through go-live.
+Software architect and manager with 25+ years of experience across IT consulting and banking software, from hands-on development to leading technical and product teams. Currently **Team & Account Manager / Principal Project Manager at Finastra**, where I lead a technical/DevOps consulting team delivering cloud deployments for demanding client environments.
 
-Since 2024, I've been pursuing an **Executive Master's in Artificial Intelligence & Data Science at Université Paris-Dauphine | PSL (EMIASD)**, expanding my long-standing expertise (Java/Spring, distributed architectures) into Machine Learning, Deep Learning and Data Science.
+Since 2024, I've been pursuing an **Executive Master's in Artificial Intelligence & Data Science at Université Paris-Dauphine | PSL (EMIASD)** — graduating top of cohort — expanding my long-standing expertise (Java/Spring, distributed architectures) into Machine Learning, Deep Learning and Data Science.
 
 This GitHub account gathers the work produced throughout this program.
 
@@ -16,10 +16,11 @@ This GitHub account gathers the work produced throughout this program.
 
 | Period | Role / Education |
 |---|---|
-| 2024 – present | Executive Master in AI & Data Science — Université Paris-Dauphine \| PSL |
-| 2019 – present | Team & Account Manager, Principal Project Manager — **Finastra** |
-| 2015 – 2019 | Software Architect, Principal Software Development Engineer — Finastra |
-| 2009 – 2015 | Technical Project Manager, Team Leader — Misys / Turaz Global |
+| 2024 – present | Executive Master in AI & Data Science — Université Paris-Dauphine \| PSL — **top of cohort** |
+| 2019 – present | Team & Account Manager, Principal Project Manager — **Finastra** — leading a technical/DevOps consulting team: cloud deployments, client environment management, vulnerability management & deployment automation |
+| 2015 – 2019 | Software Architect, Principal Software Development Engineer — Finastra — led and mentored dev teams through the migration of a monolithic PowerBuilder/Oracle application to a REST API microservices architecture |
+| 2009 – 2015 | Technical Project Manager, Team Leader — Misys / Turaz Global — banking treasury management consulting; built full-stack products (Ktp PaymentFactory) as technical & product lead across the full dev lifecycle, including client deployments and customization |
+| 2000 – 2009 | Consultant → Project Manager / Technical Lead — various IT consulting firms (Team Partners Group, **Improve** — renowned for its technical expertise, SUADEO Conseil...) |
 | 1996 – 2000 | Engineering degree in Mathematics & Computer Science — Université Paris VII Denis Diderot |
 
 ## 🗂️ How my repos are organized
