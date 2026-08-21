@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Malik Chettih
 
-![Principal Architect](https://img.shields.io/badge/-Principal%20Architect-000000?style=flat) ![Project%20Manager](https://img.shields.io/badge/-Project%20Manager-000000?style=flat) ![EMIASD Dauphine](https://img.shields.io/badge/-EMIASD%20%7C%20Dauphine%20PSL-990033?style=flat) ![Finastra](https://img.shields.io/badge/-Finastra-0072CE?style=flat) ![Paris](https://img.shields.io/badge/-Paris%2C%20France-555555?style=flat)
+![Principal Architect](https://img.shields.io/badge/-Principal%20Architect-000000?style=flat) ![Project%20Manager](https://img.shields.io/badge/-Project%20Manager-000000?style=flat) ![AI Leader](https://img.shields.io/badge/-AI%20Leader-6A0DAD?style=flat) ![EMIASD Dauphine](https://img.shields.io/badge/-EMIASD%20%7C%20Dauphine%20PSL-990033?style=flat) ![Finastra](https://img.shields.io/badge/-Finastra-0072CE?style=flat) ![Paris](https://img.shields.io/badge/-Paris%2C%20France-555555?style=flat)
 
 ---
 
@@ -17,7 +17,7 @@ Since 2024, I've been pursuing an **Executive Master's in Artificial Intelligenc
 | Period | Role / Education |
 |---|---|
 | 2024 – present | Executive Master in AI & Data Science — Université Paris-Dauphine \| PSL — **top of cohort** |
-| 2019 – present | Team & Account Manager, Principal Project Manager — **Finastra** — leading a technical/DevOps consulting team: cloud deployments, client environment management, vulnerability management & deployment automation; driving AI integration and adoption within the team, including internal training and an AI project to bring AI tooling into DevOps/technical-support workflows and vulnerability management |
+| 2019 – present | Team & Account Manager, Principal Project Manager, **AI Leader** — **Finastra** — leading a technical/DevOps consulting team: cloud deployments, client environment management, vulnerability management & deployment automation; driving AI integration and adoption within the team, including internal training and an AI project to bring AI tooling into DevOps/technical-support workflows and vulnerability management |
 | 2015 – 2019 | Software Architect, Principal Software Development Engineer — Finastra — led and mentored dev teams through the migration of a monolithic PowerBuilder/Oracle application to a REST API microservices architecture |
 | 2009 – 2015 | Technical Project Manager, Team Leader — Misys / Turaz Global — banking treasury management consulting; built full-stack products (Ktp PaymentFactory) as technical & product lead across the full dev lifecycle, including client deployments and customization |
 | 2000 – 2009 | Consultant → Project Manager / Technical Lead — various IT consulting firms (Team Partners Group, **Improve** — renowned for its technical expertise, SUADEO Conseil...) |
