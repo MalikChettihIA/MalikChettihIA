@@ -17,7 +17,7 @@ Since 2024, I've been pursuing an **Executive Master's in Artificial Intelligenc
 | Period | Role / Education |
 |---|---|
 | 2024 – present | Executive Master in AI & Data Science — Université Paris-Dauphine \| PSL — **top of cohort** |
-| 2019 – present | Team & Account Manager, Principal Project Manager — **Finastra** — leading a technical/DevOps consulting team: cloud deployments, client environment management, vulnerability management & deployment automation |
+| 2019 – present | Team & Account Manager, Principal Project Manager — **Finastra** — leading a technical/DevOps consulting team: cloud deployments, client environment management, vulnerability management & deployment automation; driving AI integration and adoption within the team, including internal training and an AI project to bring AI tooling into DevOps/technical-support workflows and vulnerability management |
 | 2015 – 2019 | Software Architect, Principal Software Development Engineer — Finastra — led and mentored dev teams through the migration of a monolithic PowerBuilder/Oracle application to a REST API microservices architecture |
 | 2009 – 2015 | Technical Project Manager, Team Leader — Misys / Turaz Global — banking treasury management consulting; built full-stack products (Ktp PaymentFactory) as technical & product lead across the full dev lifecycle, including client deployments and customization |
 | 2000 – 2009 | Consultant → Project Manager / Technical Lead — various IT consulting firms (Team Partners Group, **Improve** — renowned for its technical expertise, SUADEO Conseil...) |
