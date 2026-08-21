@@ -25,6 +25,15 @@ This GitHub account gathers the work produced throughout this program.
 
 ## 🗂️ How my repos are organized
 
+Repos are tagged with a **GitHub topic** so they can be filtered directly from the [repositories tab](https://github.com/MalikChettihIA?tab=repositories):
+
+- 🎓 **`emiasd`** — coursework and projects from the EMIASD Master's program
+- 📚 **`learning`** — code following structured courses/trainings (Coursera, LinkedIn Learning, Pluralsight...)
+- 🚀 **`private-initiative`** — personal projects and resource curation
+- 🔱 **`reference`** — repos forked from others, kept for study/reference, not original work
+
+### 🎓 Emiasd — Master's program
+
 Every repository prefixed **`Emiasd-`** corresponds to a course or project from the EMIASD Master's program (Dauphine). Course notes, labs, projects and notebooks are documented as the program progresses.
 
 | Repo | Content |
@@ -43,6 +52,58 @@ Every repository prefixed **`Emiasd-`** corresponds to a course or project from 
 | [Emiasd-ProjetIA](https://github.com/MalikChettihIA/Emiasd-ProjetIA) | Course materials for the AI Project course |
 | [Emiasd-NextSteps](https://github.com/MalikChettihIA/Emiasd-NextSteps) | Personal notes: mathematics and agentic AI |
 | [Emiasd-FlightProject](https://github.com/MalikChettihIA/Emiasd-FlightProject) | ⭐ Featured project (see below) |
+
+### 📚 Learning — courses & trainings
+
+Code and notebooks produced while following structured courses.
+
+| Repo | Course / Platform |
+|---|---|
+| [Coursera-Big-Data-Analysis-with-Scala-and-Spark](https://github.com/MalikChettihIA/Coursera-Big-Data-Analysis-with-Scala-and-Spark) | Coursera |
+| [Coursera-DeepLearning](https://github.com/MalikChettihIA/Coursera-DeepLearning) | Coursera |
+| [DeepLearning.ia](https://github.com/MalikChettihIA/DeepLearning.ia) | deeplearning.ai |
+| [Docker-Hadoop](https://github.com/MalikChettihIA/Docker-Hadoop) | Hadoop dockerization hands-on |
+| [fork-hands-on-ai-rag-using-llamaindex](https://github.com/MalikChettihIA/fork-hands-on-ai-rag-using-llamaindex-3830207) | LinkedIn Learning |
+| [Training-Python-algo-and-data-structures](https://github.com/MalikChettihIA/Training-Python-algo-and-data-structures) | Algorithms & data structures in Python |
+| [Training-R-coping-missing-invalid-duplicate-data](https://github.com/MalikChettihIA/Training-R-coping-missing-invalid-duplicate-data) | Pluralsight |
+| [Training-R-querying-converting-data-types](https://github.com/MalikChettihIA/Training-R-querying-converting-data-types) | Pluralsight |
+| [Training-R-understanding-probability-and-distributions](https://github.com/MalikChettihIA/Training-R-understanding-probability-and-distributions) | Pluralsight |
+| [Training-Scala](https://github.com/MalikChettihIA/Training-Scala) | Scala fundamentals |
+
+### 🚀 Private initiatives
+
+| Repo | Content |
+|---|---|
+| [AI-Bookmarks](https://github.com/MalikChettihIA/AI-Bookmarks) | Curated list of useful AI links |
+| [AI-resources](https://github.com/MalikChettihIA/AI-resources) | Personal AI resource collection |
+
+### 🔱 Forks & references
+
+<details>
+<summary>Repos forked from other authors, kept for study/reference (20)</summary>
+
+- [Fork-100-Days-Of-ML-Code](https://github.com/MalikChettihIA/Fork-100-Days-Of-ML-Code)
+- [Fork-BERT-LoRA-TensorRT](https://github.com/MalikChettihIA/Fork-BERT-LoRA-TensorRT)
+- [Fork-cs229-2018-autumn](https://github.com/MalikChettihIA/Fork-cs229-2018-autumn) — Stanford CS229 notes
+- [Fork-deep-learning-with-python-notebooks](https://github.com/MalikChettihIA/Fork-deep-learning-with-python-notebooks)
+- [Fork-deep_learning_and_the_game_of_go](https://github.com/MalikChettihIA/Fork-deep_learning_and_the_game_of_go)
+- [Fork-emiasd-optimisation](https://github.com/MalikChettihIA/Fork-emiasd-optimisation) — Dauphine EMIASD reference
+- [Fork-FinQA](https://github.com/MalikChettihIA/Fork-FinQA)
+- [Fork-Generative-AI-Module-Dauphine-2025](https://github.com/MalikChettihIA/Fork-Generative-AI-Module-Dauphine-2025) — Dauphine IASD Executive course
+- [Fork-GoDeepRL](https://github.com/MalikChettihIA/Fork-GoDeepRL) — AlphaZero-style deep RL
+- [Fork-hands-on-spark-scala](https://github.com/MalikChettihIA/Fork-hands-on-spark-scala)
+- [Fork-hands-on-spark-streaming](https://github.com/MalikChettihIA/Fork-hands-on-spark-streaming)
+- [Fork-llm_quantizer](https://github.com/MalikChettihIA/Fork-llm_quantizer)
+- [Fork-LLMs-in-Finance](https://github.com/MalikChettihIA/Fork-LLMs-in-Finance)
+- [Fork-machine-learning-interview](https://github.com/MalikChettihIA/Fork-machine-learning-interview)
+- [Fork-mlx-finetuning](https://github.com/MalikChettihIA/Fork-mlx-finetuning)
+- [Fork-osekoo-docker-images](https://github.com/MalikChettihIA/Fork-osekoo-docker-images)
+- [Fork-Pyspark-flight-delay-prediction](https://github.com/MalikChettihIA/Fork-Pyspark-flight-delay-prediction)
+- [Fork-travel-ai-translator](https://github.com/MalikChettihIA/Fork-travel-ai-translator)
+- [Fork_keras_mixnets](https://github.com/MalikChettihIA/Fork_keras_mixnets)
+- [Data-Science-For-Beginners](https://github.com/MalikChettihIA/Data-Science-For-Beginners) — Microsoft curriculum
+
+</details>
 
 ## ⭐ Featured project
 
