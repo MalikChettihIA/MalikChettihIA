@@ -6,7 +6,7 @@
 
 ## 🧭 About
 
-Software architect and manager with 25+ years of experience across IT consulting and banking software, from hands-on development to leading technical and product teams. Currently **Team & Account Manager / Principal Project Manager at Finastra**, where I lead a technical/DevOps consulting team delivering cloud deployments for demanding client environments.
+Software architect and manager with 25+ years of experience across IT consulting and banking software, from hands-on development to leading technical and product teams. Currently **Team & Account Manager / Principal Project Manager / AI Leader at Finastra**, where I lead a technical/DevOps consulting team delivering cloud deployments for demanding client environments, and drive AI integration and adoption across the team — training, tooling, and an AI project bringing AI into DevOps and technical-support workflows.
 
 Since 2024, I've been pursuing an **Executive Master's in Artificial Intelligence & Data Science at Université Paris-Dauphine | PSL (EMIASD)** — graduating top of cohort — expanding my long-standing expertise (Java/Spring, distributed architectures) into Machine Learning, Deep Learning and Data Science.
 
