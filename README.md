@@ -10,7 +10,7 @@ Software architect and manager with 25+ years of experience across IT consulting
 
 Since 2024, I've been pursuing an **Executive Master's in Artificial Intelligence & Data Science at Université Paris-Dauphine | PSL (EMIASD)** — graduating top of cohort — expanding my long-standing expertise (Java/Spring, distributed architectures) into Machine Learning, Deep Learning and Data Science.
 
-This GitHub account gathers the work produced throughout this program.
+**AI enthusiast** 🤖 — this GitHub account gathers the projects built during my Master's, along with every repo I create to test, follow along, and implement AI POCs and products that feed into my day-to-day work. It's a snapshot of my current interests, and an attempt to share something useful with anyone who stumbles across it.
 
 ## 🎓 Background
 
