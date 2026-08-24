@@ -36,7 +36,7 @@ Repos are tagged with a **GitHub topic** so they can be filtered directly from t
 
 Eight repositories below are the flagship projects from the program, one per module — each documented with the actual methodology, real results, and honest retrospectives on what didn't work, not just a folder listing. **[Emiasd-FlightProject](https://github.com/MalikChettihIA/Emiasd-FlightProject) ⭐** is the best entry point for a technical review — full details in the featured project section below. The complete list of ~20 EMIASD repositories (course labs, notes, secondary projects) and a full description of the program are in **[emiasd-program.md](emiasd-program.md)**.
 
-| Repo | Content |
+| Repo | Project |
 |---|---|
 | [Emiasd-FlightProject](https://github.com/MalikChettihIA/Emiasd-FlightProject) | ⭐ **Flight delay prediction.** Spark pipeline over ~142K flights + hourly weather, 4 ML models benchmarked across 100+ experiments — **82% F1 / 0.89 AUC-ROC**. [Full write-up](https://github.com/MalikChettihIA/Emiasd-FlightProject/blob/main/README.md#achieved-performance) |
 | [Emiasd-DeepLearning](https://github.com/MalikChettihIA/Emiasd-DeepLearning) | **Neural networks for the game of Go.** 5 architectures (ResNet, MobileNet, MixNet...) trained under a 100K-parameter budget to jointly predict move policy & win probability. [Full write-up](https://github.com/MalikChettihIA/Emiasd-DeepLearning/blob/main/05.ProjetGo/README.md) |
