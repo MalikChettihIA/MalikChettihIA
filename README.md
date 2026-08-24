@@ -34,7 +34,7 @@ Repos are tagged with a **GitHub topic** so they can be filtered directly from t
 
 ### 🎓 [Dauphine EMIASD — Master's program](https://executive-education.dauphine.psl.eu/formations/executive-master-diplome-universite/ia-science-donnees)
 
-Main projects from the Executive Master in AI & Data Science at Université Paris-Dauphine \| PSL. The full list of course repositories (including private ones) and a detailed description of the program are in **[emiasd-program.md](emiasd-program.md)**.
+Eight repositories below are the flagship projects from the program — each documented with the actual methodology, real results, and honest retrospectives on what didn't work, not just a folder listing. **Start with [Emiasd-FlightProject](https://github.com/MalikChettihIA/Emiasd-FlightProject) ⭐** for the clearest technical showcase: a 5-person team project processing ~142K flights with Apache Spark, benchmarking four ML model families across 100+ tracked experiments, reaching **82.13% F1 / 0.89 AUC-ROC** on a leakage-aware, production-style pipeline (Docker + MLflow + a real HDFS/Spark cluster) — full details below. The complete list of ~20 EMIASD repositories (course labs, notes, secondary projects) and a full description of the program are in **[emiasd-program.md](emiasd-program.md)**.
 
 | Repo | Content |
 |---|---|
@@ -45,7 +45,7 @@ Main projects from the Executive Master in AI & Data Science at Université Pari
 | [Emiasd-ProbaStatistiques](https://github.com/MalikChettihIA/Emiasd-ProbaStatistiques) | Probability & Statistics (R) |
 | [Emiasd-SystemeDeRecommandation](https://github.com/MalikChettihIA/Emiasd-SystemeDeRecommandation) | Recommender systems (LightFM) |
 | [Emiasd-ProjetIA](https://github.com/MalikChettihIA/Emiasd-ProjetIA) | AI Project course |
-| Emiasd-AlgebreLineaire | Linear Algebra 🔒 *(private — coming soon)* |
+| [Emiasd-AlgebreLineaire](https://github.com/MalikChettihIA/Emiasd-AlgebreLineaire) | Linear Algebra |
 
 ### 📚 Learning — courses & trainings
 
@@ -101,11 +101,17 @@ Code and notebooks produced while following structured courses.
 
 ## ⭐ Featured project
 
-### [Emiasd-FlightProject](https://github.com/MalikChettihIA/Emiasd-FlightProject)
+### [Emiasd-FlightProject](https://github.com/MalikChettihIA/Emiasd-FlightProject) — Flight Delay Prediction using Weather Data
 
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white) ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-blue?style=flat)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white) ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-blue?style=flat) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-End-to-end flight delay prediction pipeline: large-scale data ingestion and joins with Apache Spark, feature engineering, and XGBoost model training and evaluation.
+A 5-person team project (with Naveed Awan, Henri Balamou, Zineddine Gherari and Rachna Hean) implementing and substantially extending the methodology of a published ACM TIST paper on flight-delay prediction — full write-up in a 171-page report covering 100+ experiments.
+
+**The problem:** ~20% of flights arrive over 15 minutes late, at an estimated $32.9B/year cost in the US alone — and weather is a contributing factor in an estimated 35-40% of delays, making it a genuinely forecastable, high-value target rather than an academic exercise.
+
+**What was built:** a leakage-aware Apache Spark pipeline processing ~142K flights joined against hourly weather observations from 305 airports (spatio-temporal join on WBAN station + UTC hour), with two swappable feature-engineering paths (PCA vs. statistical selection) and four benchmarked classifier families — Random Forest, Gradient Boosted Trees, Logistic Regression, XGBoost — tracked with MLflow across a local Docker Spark cluster, the Dauphine LAMSADE HDFS/Spark cluster, and Google Cloud Dataproc.
+
+**Result:** the best configuration (a tuned Random Forest, 9-hour origin+destination weather window) reached **F1 = 82.13%, AUC-ROC = 0.89** — a +9pt F1 gain over the no-weather baseline (73.03%), confirming weather integration is what drives the improvement.
 
 ## 🛠️ Tech stack
 

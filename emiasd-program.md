@@ -47,9 +47,9 @@ Graduates typically move into roles such as Data Scientist, Data Engineer, ML En
 
 ## All EMIASD repositories
 
-Every repository prefixed **`Emiasd-`** corresponds to a course, lab, or project from the program. The main/showcase projects are highlighted in the [profile README](README.md); this page lists everything, including course-note repositories and private ones.
+Every repository prefixed **`Emiasd-`** corresponds to a course, lab, or project from the program. The main/showcase projects are highlighted in the [profile README](README.md); this page lists everything, including course-note repositories.
 
-### Public
+### All repositories
 
 | Repo | Content |
 |---|---|
@@ -60,6 +60,7 @@ Every repository prefixed **`Emiasd-`** corresponds to a course, lab, or project
 | [Emiasd-ProbaStatistiques](https://github.com/MalikChettihIA/Emiasd-ProbaStatistiques) | Probability & Statistics (R) |
 | [Emiasd-SystemeDeRecommandation](https://github.com/MalikChettihIA/Emiasd-SystemeDeRecommandation) | Recommender systems (LightFM) |
 | [Emiasd-ProjetIA](https://github.com/MalikChettihIA/Emiasd-ProjetIA) | AI Project course |
+| [Emiasd-AlgebreLineaire](https://github.com/MalikChettihIA/Emiasd-AlgebreLineaire) | Linear Algebra |
 | [Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow](https://github.com/MalikChettihIA/Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow) | Large-scale Machine Learning with Spark & TensorFlow |
 | [Emiasd-MonteCarloSearch](https://github.com/MalikChettihIA/Emiasd-MonteCarloSearch) | Monte Carlo Tree Search, UCB, RAVE, Nested Monte Carlo Search |
 | [Emiasd-OptimisationApprentissage](https://github.com/MalikChettihIA/Emiasd-OptimisationApprentissage) | Optimization for Machine Learning |
@@ -67,18 +68,12 @@ Every repository prefixed **`Emiasd-`** corresponds to a course, lab, or project
 | [Emiasd-Graphes](https://github.com/MalikChettihIA/Emiasd-Graphes) | Graph theory |
 | [Emiasd-IASante](https://github.com/MalikChettihIA/Emiasd-IASante) | AI applied to healthcare |
 | [Emiasd-NextSteps](https://github.com/MalikChettihIA/Emiasd-NextSteps) | Personal notes: mathematics and agentic AI |
-
-### Private
-
-| Repo | Content |
-|---|---|
-| Emiasd-AlgebreLineaire | Linear Algebra |
-| Emiasd-ArchitectureCentraliseeDistribuee | Centralized & distributed architectures |
-| Emiasd-BaseDeDonneesRelationelle-SQL | Relational databases & SQL |
-| Emiasd-DataQuality | Data quality |
-| Emiasd-ProjetDaegu | Housing price prediction project (Daegu, South Korea) |
-| Emiasd-TraitementDistribueDeDonneesMassives | Distributed processing of massive datasets |
-| Emiasd-resources | Course resources |
+| [Emiasd-ArchitectureCentraliseeDistribuee](https://github.com/MalikChettihIA/Emiasd-ArchitectureCentraliseeDistribuee) | Centralized & distributed architectures |
+| [Emiasd-BaseDeDonneesRelationelle-SQL](https://github.com/MalikChettihIA/Emiasd-BaseDeDonneesRelationelle-SQL) | Relational databases & SQL |
+| [Emiasd-DataQuality](https://github.com/MalikChettihIA/Emiasd-DataQuality) | Data quality |
+| [Emiasd-ProjetDaegu](https://github.com/MalikChettihIA/Emiasd-ProjetDaegu) | Housing price prediction project (Daegu, South Korea) |
+| [Emiasd-TraitementDistribueDeDonneesMassives](https://github.com/MalikChettihIA/Emiasd-TraitementDistribueDeDonneesMassives) | Distributed processing of massive datasets |
+| [Emiasd-resources](https://github.com/MalikChettihIA/Emiasd-resources) | Course resources |
 
 ### Collaborative
 
