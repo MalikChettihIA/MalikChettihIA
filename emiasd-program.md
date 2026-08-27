@@ -70,7 +70,7 @@ Every repository prefixed **`Emiasd-`** corresponds to a course, lab, or project
 | [Emiasd-IASante](https://github.com/MalikChettihIA/Emiasd-IASante) | AI applied to healthcare |
 | [Emiasd-NextSteps](https://github.com/MalikChettihIA/Emiasd-NextSteps) | Personal notes: mathematics and agentic AI |
 | [Emiasd-ArchitectureCentraliseeDistribuee](https://github.com/MalikChettihIA/Emiasd-ArchitectureCentraliseeDistribuee) | Centralized & distributed architectures |
-| [Emiasd-BaseDeDonneesRelationelle-SQL](https://github.com/MalikChettihIA/Emiasd-BaseDeDonneesRelationelle-SQL) | Relational databases & SQL |
+| [Emiasd-BaseDeDonneesRelationelle-SQL](https://github.com/MalikChettihIA/Emiasd-BaseDeDonneesRelationelle-SQL) | Relational databases & SQL — Paris metro incidents DB project, 10 SQL queries benchmarked in multiple forms (`NOT EXISTS` vs. `NOT IN`, `UNION` vs. plain `IN`, `INTERSECT` vs. self-join) |
 | [Emiasd-DataQuality](https://github.com/MalikChettihIA/Emiasd-DataQuality) | Data quality |
 | [Emiasd-ProjetDaegu](https://github.com/MalikChettihIA/Emiasd-ProjetDaegu) | Housing price prediction project (Daegu, South Korea) |
 | [Emiasd-TraitementDistribueDeDonneesMassives](https://github.com/MalikChettihIA/Emiasd-TraitementDistribueDeDonneesMassives) | Distributed processing of massive datasets |
