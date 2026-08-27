@@ -61,6 +61,7 @@ Every repository prefixed **`Emiasd-`** corresponds to a course, lab, or project
 | [Emiasd-SystemeDeRecommandation](https://github.com/MalikChettihIA/Emiasd-SystemeDeRecommandation) | Recommender systems (LightFM) |
 | [Emiasd-ProjetIA](https://github.com/MalikChettihIA/Emiasd-ProjetIA) | AI Project course |
 | [Emiasd-AlgebreLineaire](https://github.com/MalikChettihIA/Emiasd-AlgebreLineaire) | Linear Algebra |
+| [Emiasd-Algorithmique-Programmation](https://github.com/MalikChettihIA/Emiasd-Algorithmique-Programmation) | Algorithmique & Programmation — Python fundamentals |
 | [Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow](https://github.com/MalikChettihIA/Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow) | Large-scale Machine Learning with Spark & TensorFlow |
 | [Emiasd-MonteCarloSearch](https://github.com/MalikChettihIA/Emiasd-MonteCarloSearch) | Monte Carlo Tree Search, UCB, RAVE, Nested Monte Carlo Search |
 | [Emiasd-OptimisationApprentissage](https://github.com/MalikChettihIA/Emiasd-OptimisationApprentissage) | Optimization for Machine Learning |
