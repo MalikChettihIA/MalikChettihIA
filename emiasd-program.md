@@ -51,30 +51,64 @@ Every repository prefixed **`Emiasd-`** corresponds to a course, lab, or project
 
 ### All repositories
 
+Grouped by theme. Two empty duplicate repos (`Emiasd-MachineLearningBigData`, `Emiasd-SQLNoSQLLakehouseDatalake`) are pending manual deletion on GitHub and omitted here.
+
+#### 🧮 Math
+
+| Repo | Content |
+|---|---|
+| [Emiasd-AlgebreLineaire](https://github.com/MalikChettihIA/Emiasd-AlgebreLineaire) | Linear Algebra — PCA & image compression from scratch via SVD |
+| [Emiasd-ProbaStatistiques](https://github.com/MalikChettihIA/Emiasd-ProbaStatistiques) | Probability & Statistics (R) — Daegu housing price prediction, R² = 0.9513 |
+| [Emiasd-Graphes](https://github.com/MalikChettihIA/Emiasd-Graphes) | Graph theory — PageRank, link analysis, Neo4j graph databases |
+| [Emiasd-OptimisationApprentissage](https://github.com/MalikChettihIA/Emiasd-OptimisationApprentissage) | Optimization for Machine Learning — linear optimization, MILP |
+| [Emiasd-ProjetDaegu](https://github.com/MalikChettihIA/Emiasd-ProjetDaegu) | Housing price prediction project (Daegu, South Korea) — likely an earlier/duplicate submission of the ProbaStatistiques project |
+
+#### 🤖 Machine Learning
+
 | Repo | Content |
 |---|---|
 | [Emiasd-FlightProject](https://github.com/MalikChettihIA/Emiasd-FlightProject) | ⭐ Flight delay prediction — Apache Spark, feature engineering, XGBoost |
+| [Emiasd-MachineLearning](https://github.com/MalikChettihIA/Emiasd-MachineLearning) | Green AI — efficient RAG assistant (fine-tuning, distillation, quantization) |
+| [Emiasd-SystemeDeRecommandation](https://github.com/MalikChettihIA/Emiasd-SystemeDeRecommandation) | Recommender systems (LightFM) |
+| [Emiasd-ProjetIA](https://github.com/MalikChettihIA/Emiasd-ProjetIA) | AI Project course — adversarial attacks & privacy defense on RAG |
+
+#### 🧠 Deep Learning
+
+| Repo | Content |
+|---|---|
 | [Emiasd-DeepLearning](https://github.com/MalikChettihIA/Emiasd-DeepLearning) | Deep Learning — neural network project on the game of Go |
 | [Emiasd-NLP](https://github.com/MalikChettihIA/Emiasd-NLP) | Natural Language Processing (ModernBERT fine-tuning...) |
-| [Emiasd-MachineLearning](https://github.com/MalikChettihIA/Emiasd-MachineLearning) | Machine Learning fundamentals |
-| [Emiasd-ProbaStatistiques](https://github.com/MalikChettihIA/Emiasd-ProbaStatistiques) | Probability & Statistics (R) |
-| [Emiasd-SystemeDeRecommandation](https://github.com/MalikChettihIA/Emiasd-SystemeDeRecommandation) | Recommender systems (LightFM) |
-| [Emiasd-ProjetIA](https://github.com/MalikChettihIA/Emiasd-ProjetIA) | AI Project course |
-| [Emiasd-AlgebreLineaire](https://github.com/MalikChettihIA/Emiasd-AlgebreLineaire) | Linear Algebra |
-| [Emiasd-Algorithmique-Programmation](https://github.com/MalikChettihIA/Emiasd-Algorithmique-Programmation) | Algorithmique & Programmation — Python fundamentals |
-| [Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow](https://github.com/MalikChettihIA/Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow) | Large-scale Machine Learning with Spark & TensorFlow |
 | [Emiasd-MonteCarloSearch](https://github.com/MalikChettihIA/Emiasd-MonteCarloSearch) | Monte Carlo Tree Search, UCB, RAVE, Nested Monte Carlo Search |
-| [Emiasd-OptimisationApprentissage](https://github.com/MalikChettihIA/Emiasd-OptimisationApprentissage) | Optimization for Machine Learning |
-| [Emiasd-SQLnoSQL-LakehouseDatalake](https://github.com/MalikChettihIA/Emiasd-SQLnoSQL-LakehouseDatalake) | SQL/NoSQL, Lakehouse & Datalake architectures |
-| [Emiasd-Graphes](https://github.com/MalikChettihIA/Emiasd-Graphes) | Graph theory |
-| [Emiasd-IASante](https://github.com/MalikChettihIA/Emiasd-IASante) | AI applied to healthcare |
-| [Emiasd-NextSteps](https://github.com/MalikChettihIA/Emiasd-NextSteps) | Personal notes: mathematics and agentic AI |
+
+#### 🗄️ Big Data
+
+| Repo | Content |
+|---|---|
 | [Emiasd-ArchitectureCentraliseeDistribuee](https://github.com/MalikChettihIA/Emiasd-ArchitectureCentraliseeDistribuee) | Large-scale data management — MapReduce/YARN, Hadoop cluster deployment & word-count job on Google Cloud Dataproc |
 | [Emiasd-BaseDeDonneesRelationelle-SQL](https://github.com/MalikChettihIA/Emiasd-BaseDeDonneesRelationelle-SQL) | Relational databases & SQL — Paris metro incidents DB project, 10 SQL queries benchmarked in multiple forms (`NOT EXISTS` vs. `NOT IN`, `UNION` vs. plain `IN`, `INTERSECT` vs. self-join) |
-| [Emiasd-DataQuality](https://github.com/MalikChettihIA/Emiasd-DataQuality) | Data quality |
-| [Emiasd-ProjetDaegu](https://github.com/MalikChettihIA/Emiasd-ProjetDaegu) | Housing price prediction project (Daegu, South Korea) |
+| [Emiasd-SQLnoSQL-LakehouseDatalake](https://github.com/MalikChettihIA/Emiasd-SQLnoSQL-LakehouseDatalake) | SQL/NoSQL, Lakehouse & Datalake architectures (Delta Lake, Spark) |
+| [Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow](https://github.com/MalikChettihIA/Emiasd-LargeScaleMachineLearningInSparkAndTensorFlow) | Large-scale Machine Learning with Spark & TensorFlow — decision/regression tree induction in Spark ML |
 | [Emiasd-TraitementDistribueDeDonneesMassives](https://github.com/MalikChettihIA/Emiasd-TraitementDistribueDeDonneesMassives) | Distributed processing of massive datasets |
+| [Emiasd-DataQuality](https://github.com/MalikChettihIA/Emiasd-DataQuality) | Data quality |
+
+#### 🐍 Algorithme & Programmation
+
+| Repo | Content |
+|---|---|
+| [Emiasd-Algorithmique-Programmation](https://github.com/MalikChettihIA/Emiasd-Algorithmique-Programmation) | Algorithmique & Programmation — Python fundamentals |
+
+#### 🏥 Conference (incl. Santé)
+
+| Repo | Content |
+|---|---|
+| [Emiasd-IASante](https://github.com/MalikChettihIA/Emiasd-IASante) | AI applied to healthcare |
+
+#### 📚 Other / resources
+
+| Repo | Content |
+|---|---|
 | [Emiasd-resources](https://github.com/MalikChettihIA/Emiasd-resources) | Course resources |
+| [Emiasd-NextSteps](https://github.com/MalikChettihIA/Emiasd-NextSteps) | Personal notes: mathematics and agentic AI |
 
 ### Collaborative
 
